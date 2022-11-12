@@ -82,6 +82,8 @@ $ vi ~/.kube/config
 $ kubectl get pod
 $ #!/bin/bash 
 $ sh iam-authenticator.sh 
+## Install kubectl
+sh kubectl.sh
 $ kubectl get pod
 ## deploy cluster auto scaler
 $ kubectl apply -f clusterautoscaler.yml
