@@ -38,7 +38,7 @@ $ vi .bashrc
    export PATH="$PATH:/usr/local/bin"
 # Source .bashrc to reflect for current session
 $ source ~/.bashrc  
-# run the scripts https://github.com/mylandmarktechs/eks-terraform-setup/blob/main/terraform-install.sh
+# run the scripts https://github.com/acadalearning/eks-terraform-setup/blob/main/terraform-install.sh
 
 $ sudo yum install wget unzip -y
 $ wget https://releases.hashicorp.com/terraform/0.12.26/terraform_0.12.26_linux_amd64.zip
@@ -50,7 +50,7 @@ $ vi .bashrc
    export PATH="$PATH:/usr/local/bin"
 # Source .bashrc to reflect for current session
 $ source ~/.bashrc  
-# run the scripts https://github.com/mylandmarktechs/eks-terraform-setup/blob/main/terraform-install.sh
+# run the scripts https://github.com/acadalearning/eks-terraform-setup/blob/main/terraform-install.sh
 ```
 #### Clone terraform scripts
 ``` sh
