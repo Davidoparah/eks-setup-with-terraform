@@ -2,7 +2,7 @@
 ### **<span style="color:green">Contacts: +1 587 574 2233 <br> WebSite : <http://acadalearning.com/></span>**
 ### **Email: info@acadalearning.com**
 # ACADA Learning,  -    ACADA Learning 
-# Tel: +1 437 215 2483,   -     +1 587 574 2233 
+# Tel: +1 587 574 2233     
 #    www.acadalearning.com 
 # Terraform Installation And Setup In AWS EC2 Linux Instances
 #  Using Terraform to provision a fully managed Amazon EKS Cluster
