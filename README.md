@@ -24,7 +24,7 @@ $ sudo echo "eksadmin  ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/eksadmi
 $ sudo su - eksadmin
 ```
 ``` sh
-$ git clone https://github.com/acadalearning/EKS-setup-with-terraform
+$ git clone https://github.com/acadalearning/eks-setup-with-terraform
 $ cd eks-terraform-setup
 # install terraform using a bash shell script
 $ sh terraform-install.sh
@@ -54,7 +54,7 @@ $ source ~/.bashrc
 ```
 #### Clone terraform scripts
 ``` sh
-$ git clone https://github.com/acadalearning/EKS-setup-with-terraform
+$ git clone https://github.com/acadalearning/eks-setup-with-terraform
 $ cd eks-terraform-setup
 ```
 #### <span style="color:orange">Update Your Key Name in variables.tf file before executing terraform script.</span>
